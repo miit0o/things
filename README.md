@@ -9,7 +9,7 @@
     A short list of projects I want to do in the future. Maybe there is something for you as well?<br>
   </p>
   <h3>You got something for me?</h3>
-  <p>Great! How about [submitting your idea](https://github.com/miit0o/things/issues/new) for me so I can take a look at it and maybe even do it?</p>
+  <p>Great! How about <a href="https://github.com/miit0o/things/issues/new">submitting your idea</a> so I can take a look at it and maybe even do it?</p>
 </div>
 
 ## Table of contents
