@@ -29,3 +29,4 @@
 
 ### Misc
 * Build a home NAS for movies and music to attach to an Android TV using a Raspberry Pi 3
+* Build a wholesome Twitter bot that makes everybody feel good
